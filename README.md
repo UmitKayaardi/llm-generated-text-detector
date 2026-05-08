@@ -1,4 +1,4 @@
-# LLM-Generated Text Detector & Analytics 🤖✍️
+# LLM-Generated Text Detector & Analytics
 
 ## Project Overview
 In the era of rapidly advancing Large Language Models (LLMs), distinguishing between human-written and machine-generated content has become a fundamental challenge for digital trust and information integrity. This project develops a scalable analytics pipeline to identify the "digital fingerprints" of various AI models including **GPT-4, Llama-Chat, and Cohere**. 
